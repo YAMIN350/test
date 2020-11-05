@@ -35,7 +35,7 @@ const Profile: React.FC<ProfileProps> = ({ match }) => {
         <h2 style={{ textAlign: "center", margin: "20px 0 20px 0" }}>
           Fiche utilisateur
         </h2>
-        <Link to="/users">Retour à la liste d'utilisateur</Link>
+        <Link to="/">Retour à la liste d'utilisateur</Link>
         <Table striped bordered hover>
           <tbody>
             <tr>

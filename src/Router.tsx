@@ -11,7 +11,7 @@ const Router = () => (
   // <Router>
 
   <BrowserRouter>
-    <Route exact path="/users" component={User} />
+    <Route exact path="/" component={User} />
     <Route exact path="/user/:id" component={Profile} />
   </BrowserRouter>
   // </Router>

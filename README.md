@@ -1,11 +1,5 @@
 # Test technique
 
-Une petite description du projet
-
-## Pour commencer
-
-Entrez ici les instructions pour bien débuter avec votre projet...
-
 ### Installation
 
 Les étapes pour installer le programme
@@ -14,7 +8,13 @@ Les étapes pour installer le programme
 
 ## Démarrage
 
+Pour lancer le programme:
+
 - npm start
+
+Pour lancer les tests unitaires:
+
+- npm test
 
 ## Auteurs
 
